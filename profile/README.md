@@ -8,7 +8,7 @@ Blink Labs began with the idea to run a Cardano stake pool in the summer of 2021
 
 Open source software is the foundation on which most of the modern digital world is built. Open source software is used in mobile devices, televisions, telecommunications, and even [robots on Mars](https://github.com/readme/featured/nasa-ingenuity-helicopter). Blink Labs is committed to being a good steward to our little corner of the open source universe. Our software is licensed using friendly open source licenses which allow for commercialization of our work. We believe this provides a richer and more robust ecosystem for others to build and grow. We welcome all contributions to our projects and can act as custodians for others, as well.
 
-Join us and get started on [GitHub](https://github.com/blinklabs_io)!
+Join us and get started on [GitHub](https://github.com/blinklabs-io)!
 
 ## Team
 
