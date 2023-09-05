@@ -12,6 +12,9 @@ Join us and get started on [GitHub](https://github.com/blinklabs-io)!
 
 ## Team
 
-The Blink Labs team has been involved in several large scale open source projects and global scale companies.
+The Blink Labs team has been involved in several large scale open source projects and global scale companies. The founding team has decades of experience working in `web 2` companies in Silicon Valley.
 
-Devs: [@agaffney](https://github.com/agaffney) [@wolf31o2](https://github.com/wolf31o2)
+CEO & Co-Founder: [@wolf31o2](https://github.com/wolf31o2)
+Lead Engineer: [@agaffney](https://github.com/agaffney)
+COO: [@musik-c](https://github.com/musik-c)
+Infrastructure: [@verbotenj](https://github.com/verbotenj)
