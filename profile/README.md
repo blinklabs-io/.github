@@ -2,17 +2,21 @@
 
 Welcome to Blink Labs!
 
-Blink Labs began with the idea to run a Cardano stake pool in the summer of 2021. We were operating as CloudStruct, a DevOps as a Service consulting company and launched the CloudStruct Cardano Staking pool which operated until the end of 2022. Since then, we have focused on creating open source software and custom solutions on the Cardano blockchain. Our team has experience with projects of all scale, from one man solopreneurs to global scale communications, storage, cloud, and big data companies in Silicon Valley. We leverage our team’s deep experience in global scale operations to build highly available, repeatable, and scalable systems unique to the Cardano blockchain. Our main goal is to ensure that we build high quality software and services for the Cardano ecosystem, reducing time to market, and reliability through open source software.
+Blink Labs began with the idea to run a Cardano stake pool in the summer of 2021. We were operating as CloudStruct, a DevOps as a Service consulting company and launched the CloudStruct Cardano Staking pool which operated until the end of 2022.
+
+Since then, we have focused on creating open source software and custom solutions on the Cardano blockchain. Our seasoned team at Blink Labs possesses a diverse range of expertise acquired from decades of experience across a variety of industries. Our experience ranges projects of all scale, from one man solopreneurs to global-scale projects in communications, storage, cloud computing, big data analytics, and the highly regulated fields of global life science and advertising. We harness this wealth of experience to craft robust and scalable systems tailored specifically for the Cardano blockchain.
+
+Our primary mission is to deliver top-tier software and services to enhance the Cardano ecosystem, streamlining time-to-market and bolstering reliability through open source solutions. We are dedicated to building high-quality, highly available, and repeatable solutions that empower the Cardano community and contribute to the blockchain's success.
 
 ## Open source
 
-Open source software is the foundation on which most of the modern digital world is built. Open source software is used in mobile devices, televisions, telecommunications, and even [robots on Mars](https://github.com/readme/featured/nasa-ingenuity-helicopter). Blink Labs is committed to being a good steward to our little corner of the open source universe. Our software is licensed using friendly open source licenses which allow for commercialization of our work. We believe this provides a richer and more robust ecosystem for others to build and grow. We welcome all contributions to our projects and can act as custodians for others, as well.
+At Blink Labs, our commitment to open source runs deep. We are passionate advocates of open source principles, and it's reflected in everything we do. From our Linux roots to our innovative tools and solutions for Cardano, openness and collaboration are at the core of our ethos. We believe in the power of transparency, community-driven innovation, and the limitless potential of open source technology. Join us on our journey as we continue to harness the collective brilliance of the open source community to build a brighter, more accessible future for the Cardano blockchain and beyond.
 
 Join us and get started on [GitHub](https://github.com/blinklabs-io)!
 
 ## Team
 
-The Blink Labs team has been involved in several large scale open source projects and global scale companies. The founding team has decades of experience working in `web 2` companies in Silicon Valley.
+Our journey is guided by the fusion of decades of open source expertise and extensive corporate experience. This distinctive blend empowers us to offer unparalleled depth and breadth of knowledge. We possess an intimate understanding of the intricacies of software development, from initial information gathering to precise code deployment within your environment. Our versatility allows us to seamlessly scale from small projects to global initiatives, and we excel in delivering high-quality solutions that empower developers worldwide.
 
 CEO & Co-Founder: [@wolf31o2](https://github.com/wolf31o2)
 Lead Engineer: [@agaffney](https://github.com/agaffney)
