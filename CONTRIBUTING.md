@@ -25,10 +25,41 @@ should review a contribution. For repositories with regular outside
 contributors, they will be listed within this file in the repository or
 repositories which they maintain.
 
+- [Developer Certificate of Origin](https://developercertificate.org/)
+
+All contributions must comply with the Developer Certificate of Origin (DCO). This certifies that you have the right to submit the work and that it is your own or properly licensed.
+
+To sign off your commits, use `git commit -s` or `git commit --signoff`.
+
+Our CI will enforce DCO compliance.
+
+- Licensing
+
+Blink Labs projects are primarily licensed under the Apache License 2.0. However, some repositories or components within the organization may use MIT or CC-BY-SA 4.0 licenses. Please check the specific project's LICENSE file for the applicable license.
+
+All contributions must be compatible with the project's license and will be licensed under the same terms.
+
+- Communication and Collaboration
+
+To engage with the Blink Labs community, join our [Discord server](https://discord.gg/5fPRZnX4qW) for real-time discussions and support. Follow us on [X (formerly Twitter)](https://twitter.com/blinklabs_io) for updates and announcements. Connect with us on [LinkedIn](https://linkedin.com/company/blink-labs-io) for professional networking. Read our blog on [Medium](https://medium.com/@blinklabs_io) and watch tutorials on [YouTube](https://youtube.com/@blinklabs_io). For direct inquiries, email us at [support@blinklabs.io](mailto:support@blinklabs.io).
+
+- [Security Policy](./SECURITY.md)
+
 <br>
 
+## Types of Contributions
+
 Contributions to open source come in many forms. You can contribute to Blink
-Labs projects in several ways.
+Labs projects in several ways, including but not limited to:
+
+- **Code Contributions**: Submit pull requests with bug fixes, new features, improvements, or refactoring.
+- **Documentation**: Improve existing documentation, write tutorials, translate content, or update READMEs and guides.
+- **Issue Reporting and Triage**: Report bugs, suggest features, or help organize and prioritize existing issues.
+- **Community Support**: Answer questions in discussions, forums, or chat channels; mentor new contributors.
+- **Design and UX**: Contribute to user interface designs, graphics, or user experience enhancements.
+- **Testing and QA**: Write or improve tests, report test failures, or assist with quality assurance.
+- **Translations**: Help localize the project into other languages.
+- **Other**: Any other contributions that benefit the project and community, such as marketing, outreach, or event organization.
 
 ### Issues
 
